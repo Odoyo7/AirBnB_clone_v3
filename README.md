@@ -88,12 +88,7 @@ Uses [Travis-CI](https://travis-ci.org/) to run all tests on all commits to the
 github repo
 
 ## Authors
-
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/)
-* Kimberly Wong, [kjowong](http://github.com/kjowong) | [@kjowong](http://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](http://github.com/hicarrie) | [@hicarrie_](http://twitter.com/hicarrie_)
-* Elaine Yeung, [yeungegs](http://github.com/yeungegs) | [@egsy](http://twitter.com/egsy)
+OMOLLO ODOYO DANIEL
 
 ## License
 
